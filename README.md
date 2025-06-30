@@ -59,8 +59,8 @@ Build a scalable, security-focused lab demonstrating:
 1. Open `secure_network_lab.pkt` in Cisco Packet Tracer
 2. View device configurations in `router-configs/` and `switch-configs/`
 3. Test connectivity:
-   - ✅ PC1 → Server0 (allowed)
-   - ❌ PC2/PC3/PC4 → Server0 (denied)
+   - PC1 → Server0 (allowed)
+   - PC2/PC3/PC4 → Server0 (denied)
 4. Use `tracert` or CLI commands like `show ip route` to explore routing paths
 
 
